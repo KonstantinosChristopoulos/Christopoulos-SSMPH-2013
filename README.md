@@ -1,5 +1,5 @@
 # Christopoulos-SSMPH-2023
-This repository contains the code (“R code” folder) and data (“Data” folder) for the SSM Population Health publication “Associations between lockdown intensity and suicide mortality in US states” doi: 
+This repository contains the code (.R files) and data (.csv files) for the SSM Population Health publication “Associations between lockdown intensity and suicide mortality in US states” doi: 
 
 The analysis is divided into 3 parts: total, by gender, and by race. Due to CDC’s data confidentiality restrictions, for the racial analysis, only data for whites can be made publicly available. Nevertheless, the code is supplied for all races. The file ‘maps.r’ provides code and data to reproduce Figure 1. 
 
